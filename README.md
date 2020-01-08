@@ -1,3 +1,16 @@
+# The Repo to a university term paper
+
+* Provide the `.db`-File of [All the news Dataset](https://components.one/datasets/all-the-news-articles-dataset/) in `./data/`.
+* Install `pandas`, `keras` (v2.2.4), `python-Levenshtein` and `nltk`-package to your Python 3.6 env.
+* Run the notebooks in following order:
+  1. `data_load`
+  2. `data_preprocess`
+  3. `data_lists`
+  4. `vocabulary-embedding`
+  5. `train`
+  6. `evaluation`
+
+Original README follows here.
 # Automatically generate headlines to short articles
 
 <a target="_blank" href="http://twitter.com/udibr"><img alt='Twitter followers' src="https://img.shields.io/twitter/follow/udibr.svg?style=social"></a>
